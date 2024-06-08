@@ -1,0 +1,39 @@
+Question 1: 
+	File Name: 
+		1. index.html
+		2. style.css
+		3. Output.png
+
+............................................................................................................................................
+
+Question 2: 
+	File Name: 
+		1. index.html
+		2. style.css
+		3. Output.png
+............................................................................................................................................
+
+Question 3: Explain the use of Grid-auto-row and grid-auto-column using code example.
+		Ans: Grid-auto-row and grid-auto-column properties specify the height and rows of the rows that are automatically created when  there is no
+		     explicit row definition and column definition respectively. 
+
+	File Name: 
+		1. index.html
+		2. Output.png
+............................................................................................................................................
+
+Question 4:
+
+	File Name: 
+		1. index.html
+		2. style.css
+		3. Output.png
+............................................................................................................................................
+
+Question 5:
+
+	File Name: 
+		1. index.html
+		2. style.css
+		3. Output.png
+............................................................................................................................................
